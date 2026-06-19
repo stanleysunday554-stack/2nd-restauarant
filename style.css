@@ -40,9 +40,7 @@ button:hover{
     background: chartreuse;
     transform: translateY(-3px);
 }
-button:focus{
-   background-color: blue;
-}
+
 header {
      background-color: black;
     color: white;
